@@ -1,9 +1,9 @@
 # Showcase video
 
-Committed public storyboard:
+Committed public-project walkthrough:
 
 `showcase-2min.mp4`
 
 Wired in `docs/index.html` as `assets/video/showcase-2min.mp4` (relative to `docs/`).
 
-This is an 85s text-card cut of the Showcase beats (objective → `@` handoffs → README → live-run → PR/protocol). Replace with a live-room recording when available; keep the same filename so Pages keeps playing.
+This is a 3:32 screen recording of the public Pages experience, the GitHub repository, and the committed live-run artifacts. It does not include live Grok-room or `@`-handoff footage. The legacy filename remains unchanged so existing Pages and README links keep working.

@@ -34,10 +34,10 @@ Handoffs are visible in the group room. Notion/GitHub are the source of truth. T
 
 <p align="center">
   <a href="https://iron-mark.github.io/Hackathon-Builder-Grok_Bot/#demo">
-    <img src="docs/assets/pitch/showcase-preview.gif" alt="12s GIF preview of the Spec-to-ship showcase storyboard — click for full video on Pages" width="720" />
+    <img src="docs/assets/pitch/showcase-preview.gif" alt="12-second preview of the public project page — click for the full walkthrough on Pages" width="720" />
   </a>
 </p>
-<p align="center"><em>GIF preview — <a href="https://iron-mark.github.io/Hackathon-Builder-Grok_Bot/#demo">full video on Pages</a> · <a href="docs/assets/video/showcase-2min.mp4">mp4</a></em></p>
+<p align="center"><em>GIF preview — <a href="https://iron-mark.github.io/Hackathon-Builder-Grok_Bot/#demo">3:32 public-project walkthrough on Pages</a> · <a href="docs/assets/video/showcase-2min.mp4">mp4</a> (Pages + GitHub artifacts; no live Grok-room footage)</em></p>
 
 ## Why this exists
 

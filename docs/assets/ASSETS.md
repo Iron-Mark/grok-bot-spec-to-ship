@@ -8,15 +8,17 @@
 | `og-card.svg` / `og-card.png` | GitHub social preview / Pages OG |
 | `hero-banner.svg` / `og-cover.svg` | Alternate constellation / OG marks |
 | `video/showcase-2min.mp4` | Pages player source (`assets/video/showcase-2min.mp4` relative to `docs/`) |
-| `pitch/` | `showcase-preview.gif` (12s storyboard preview) |
+| `pitch/` | `showcase-preview.gif` (12s public Pages preview) |
 
-## Video shot list
-Public storyboard MP4 is committed (compressed ~85s text cards). Live-room recording can replace the same filename.
+## Video walkthrough
 
-1. 0:00 — Objective in the group (storyboard hold ~16s)
-2. 0:20 — Visible `@` handoffs (storyboard hold ~20s)
-3. 0:50 — README + `bots/` + Pages (storyboard hold ~18s)
-4. 1:20 — `examples/live-run/` + PR trail (storyboard hold ~16s)
-5. 1:45 — End card: protocol + repo URL + MIT (storyboard hold ~15s)
+The committed MP4 is a 3:32 screen recording of the public Pages experience and GitHub artifacts. It does not contain live Grok-room or `@`-handoff footage. The stable filename is retained so existing Pages and README links keep working.
+
+1. 0:00 — Public Pages introduction
+2. 0:20 — Embedded Showcase storyboard
+3. 1:50 — Public GitHub repository
+4. 2:20 — Return to the public Pages experience
+5. 2:40 — README and `examples/live-run/` proof
+6. 3:10 — Reusable kit overview
 
 Voice: presenter cues in `examples/live-run/06-presenter-cues.md`.
